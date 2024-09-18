@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hanoi">Hà Nội</string>
+    <string name="Ho_Chi_Minh">Hồ Chí Minh</string>
+    <string name="Mon">Thứ 2</string>
+    <string name="Tue">Thứ 3</string>
+    <string name="Wed">Thứ 4</string>
+    <string name="Thu">Thứ 5</string>
+    <string name="Fri">Thứ 6</string>
+    <string name="Sat">Thứ 7</string>
+    <string name="Sun">Chủ Nhật</string>
+    <string name="Stockholm">Stockholm</string>
+    <string name="Sunny">Nắng</string>
+    <string name="Slight_rain">Mưa phùn</string>
+    <string name="Rainy">Mưa rào</string>
+    <string name="Stormy">Bão</string>
+    <string name="Cloudy">Nhiều mây</string>
+    <string name="Thunder_storm">Mưa bão</string>
+    <string name="Slight_snow">Tuyết rơi</string>
+    <string name="Snowy">Bão tuyết</string>
+</resources>
